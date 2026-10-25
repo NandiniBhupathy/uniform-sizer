@@ -1,0 +1,43 @@
+{
+  "rows_raw": 3027,
+  "dropped_duplicates": 5,
+  "dropped_unknown_size": 0,
+  "dropped_missing_or_impossible_inputs": 38,
+  "size_counts_before_merge": {
+    "22": 48,
+    "24": 314,
+    "26": 666,
+    "28": 786,
+    "30": 705,
+    "32": 361,
+    "34": 104
+  },
+  "size_labels_used": [
+    "22",
+    "24",
+    "26",
+    "28",
+    "30",
+    "32",
+    "34"
+  ],
+  "orig_labels": [
+    "22",
+    "24",
+    "26",
+    "28",
+    "30",
+    "32",
+    "34"
+  ],
+  "size_mapping": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "rows_clean": 2984
+}
